@@ -341,8 +341,8 @@ def lineBot(op):
                 else:
                     cl.sendMessage(to,"您可以輸入公主以獲得更多的啾咪~")
             if sender not in ban["blacklist"]:
-                if text.lower() in ['妹子圖','抽妹子'] :
-                    cl.sendImage(to, "bot/linepy/loli/{}-monmon.png".format(str(random.randint(0,int(settings["monmonpic"]-1)))))
+                if text.lower() in ['Gif','嘿嘿'] :
+                    cl.sendImage(to, "bot/linepy/gif/{}-monmon.gif".format(str(random.randint(0,int(settings["monmonpic"]-1)))))
                 elif text.lower() in ['公主','啾咪'] :
                     cl.sendImage(to, "bot/linepy/loli/{}-image.png".format(str(random.randint(0,int(settings["pic"]-1)))))
             if sender in ban["admin"] or sender in ban["owners"]:
