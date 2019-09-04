@@ -1,0 +1,23 @@
+{
+    "admin": [
+        "u7f4a11bf0512d658b6b2d1e9f47624f9",
+        "uc0bf60a440ae662d56dd7fd8505c30db",
+        "u27009f25b102e56c85ad4f6cf8068f79",
+        "u94f9b8357d7b74914a0e1cd917ad664c"
+    ],
+    "blacklist": {},
+    "bots": [],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    },
+    "owners": [
+        "ua10c2ad470b4b6e972954e1140ad1891",
+        "u992a6e77041a772b8abd613ea64d4623",
+        "u389ba874a0560c8c0adf680d1d3b15e3",
+        "u58854e8ecd6ded2c0b284a459c3160ec"
+    ],
+    "s": {},
+    "user": {}
+}
